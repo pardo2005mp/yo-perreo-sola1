@@ -2,5 +2,5 @@
 vamos mis amores
 primer repositorio
 
-# y si no te la comes
+# no se copia perro
 xd
